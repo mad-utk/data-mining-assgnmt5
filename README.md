@@ -58,4 +58,4 @@ Kaggle Demographic ForeverAlone Graph Dataset -
 Google Colab Workbook -
 [![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMgjRAgwo_EjAdXuTXePoeZoRwWbkS5q?usp=drive_link)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@username/index"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@username/index" alt="Medium Article">
+<a target="_blank" href="https://medium.com/@utkarshsatishkumar.shah/test-33366aca4e1b"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Article">
