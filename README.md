@@ -39,14 +39,23 @@ Google Colab Workbook -
 Kaggle Animal Sound Audio Dataset -
 [Kaggle Animal Sound Audio Dataset](https://www.kaggle.com/datasets/warcoder/cats-vs-dogs-vs-birds-audio-classification)
 
+Google Colab Workbook -
 [![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMgjRAgwo_EjAdXuTXePoeZoRwWbkS5q?usp=drive_link)
 
 ## Task 6 - EDA on Video Detaset
 
+AI Generated Synthetic Face Video Dataset -
+[AI Generated Synthetic Face Video Dataset](https://github.com/mad-utk/data-mining-assgnmt5/blob/main/Task6/synthetic_face_videos.zip)
+
+Google Colab Workbook -
 [![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMgjRAgwo_EjAdXuTXePoeZoRwWbkS5q?usp=drive_link)
 
 ## Task 7 - EDA on Graph Detaset
 
+Kaggle Demographic ForeverAlone Graph Dataset -
+[Kaggle Demographic ForeverAlone Graph Dataset](https://www.kaggle.com/datasets/kingburrito666/the-demographic-rforeveralone-dataset)
+
+Google Colab Workbook -
 [![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMgjRAgwo_EjAdXuTXePoeZoRwWbkS5q?usp=drive_link)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@username/index"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@username/index" alt="Medium Article">
