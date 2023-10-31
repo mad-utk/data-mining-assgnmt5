@@ -41,7 +41,7 @@ Kaggle Animal Sound Audio Dataset -
 
 
 Google Colab Workbook -
-[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMgjRAgwo_EjAdXuTXePoeZoRwWbkS5q?usp=drive_link)
+[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mASil2bm2uIvLuk1MimGiDzVW0zkz2x7?usp=drive_link)
 
 ## Task 6 - EDA on Video Detaset
 
@@ -49,7 +49,7 @@ AI Generated Synthetic Face Video Dataset -
 <a target="_blank" href="https://github.com/mad-utk/data-mining-assgnmt5/blob/main/Task6/synthetic_face_videos.zip"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Kaggle Dataset">
 
 Google Colab Workbook -
-[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMgjRAgwo_EjAdXuTXePoeZoRwWbkS5q?usp=drive_link)
+[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iN3X4weCbyJuYIcHrenyUaVa4vP0oVX2?usp=drive_link)
 
 ## Task 7 - EDA on Graph Detaset
 
@@ -57,9 +57,10 @@ Kaggle Demographic ForeverAlone Graph Dataset -
 <a target="_blank" href="https://www.kaggle.com/datasets/kingburrito666/the-demographic-rforeveralone-dataset"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Dataset">
 
 Google Colab Workbook -
-[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QMgjRAgwo_EjAdXuTXePoeZoRwWbkS5q?usp=drive_link)
+[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iN3X4weCbyJuYIcHrenyUaVa4vP0oVX2?usp=drive_link)
 
 
 ## Medium Article
 
+Article - 
 <a target="_blank" href="https://medium.com/@utkarshsatishkumar.shah/test-33366aca4e1b"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Article">
