@@ -53,11 +53,11 @@ Google Colab Workbook -
 
 ## Task 7 - EDA on Graph Detaset
 
-Kaggle Demographic ForeverAlone Graph Dataset -
-<a target="_blank" href="https://www.kaggle.com/datasets/kingburrito666/the-demographic-rforeveralone-dataset"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Dataset">
+Kaggle Political Tweet Graph Dataset -
+<a target="_blank" href="https://www.kaggle.com/datasets/benhamner/clinton-trump-tweets"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Dataset">
 
 Google Colab Workbook -
-[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iN3X4weCbyJuYIcHrenyUaVa4vP0oVX2?usp=drive_link)
+[![Open Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yxqX-5hu0eUPzvm1vBAj_fEFXtGzofwM?usp=sharing)
 
 
 ## Medium Article
